@@ -8,7 +8,7 @@
 
 # A Shiny app for social mixing data collection
 
-### Website Preview
+### App Preview
 <p align="center"> 
   <kbd>
     <a  target="_blank"><img src="smix.gif">
