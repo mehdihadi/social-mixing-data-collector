@@ -11,7 +11,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a  target="_blank"><img src="examples/smix.gif">
+    <a  target="_blank"><img src="smix.gif">
   </a>
   </kbd>
 </p>
